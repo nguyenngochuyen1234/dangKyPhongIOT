@@ -1,0 +1,18 @@
+.account-container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+.form-account{
+    height: 100vh;
+    width: 100%;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-account h2{
+    padding: 2rem;
+    font-size: 3rem;
+}

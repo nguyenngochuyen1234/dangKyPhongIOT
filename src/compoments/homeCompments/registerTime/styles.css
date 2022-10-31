@@ -1,0 +1,24 @@
+.register-time{
+    display: flex;
+    flex-direction: column;
+}
+.ant-table-pagination.ant-pagination{
+    display: none;
+}
+.ant-table-thead > tr > th{
+    text-align: center;
+}
+.ant-tag{
+    margin: 4px;
+}
+.ant-table-content{
+    max-height: 300px;
+    overflow: auto;
+}
+.ant-popover-buttons{
+    display: flex;
+}
+.alert-p p{
+    width: 100%;
+    margin: 0;
+}
